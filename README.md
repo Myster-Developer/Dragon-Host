@@ -38,8 +38,8 @@ git clone https://github.com/Myster-Developer/Dragon-Host.git
 
 Abra o arquivo index.html em seu navegador web.
 
-##🌐 Contribuições
+## 🌐 Contribuições
 Este projeto foi desenvolvido como um exercício pessoal para aprimoramento de habilidades. Contribuições não são esperadas, mas sinta-se à vontade para explorar, clonar ou adaptar o código conforme necessário.
 
-##✍️ Autor
+## ✍️ Autor
 Desenvolvido por Elias Junior
