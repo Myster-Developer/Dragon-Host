@@ -27,7 +27,12 @@ nav{
 .logo{
     width: 50px;
     margin-top: 15px;
+    transition: 0.2s;
 }
+.logo:hover{
+    transform: scale(1.1, 1.1);
+}
+
 
 .navbar-items{
     position: absolute;
@@ -42,6 +47,10 @@ nav{
     display: inline-block;
     text-transform: uppercase;
     margin-left: 25px;
+    transition: 0.2s;
+}
+.navbar-items li:hover{
+    transform: scale(1.1, 1.1);
 }
 
 .navbar-items a{
@@ -52,6 +61,7 @@ nav{
 
 .navbar-items a:hover{
     color: #ccc;
+
 }
 
 .default-btn{
@@ -153,6 +163,10 @@ nav{
     flex: 1;
     max-width: 275px;
     margin: 0 20px;
+    transition: 0.2s;
+}
+.plan:hover{
+ transform: scale(1.1, 1.1);
 }
 
 .plan ul{
